@@ -82,7 +82,7 @@ const dhiraj = {
 ## 📫 How to Reach Me:
 
 - 📧 Email: harwanidhiraj23@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/harwani-dhiraj-395a88214/
 
 ## ✨ Random Dev Quote:
 
